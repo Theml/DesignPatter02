@@ -1,6 +1,8 @@
 # DesignPatter02
 Created with CodeSandbox
 
+Workshop ao qual participei em questão de padrões de design de react. Este código é referente ao modelo de HOC Pattern.
+
 - **Dificuldade**: 🟢 🟢⚪
 - **Frequência**: 🟢⚪⚪
 
